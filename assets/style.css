@@ -40,6 +40,8 @@ main{
     box-shadow: 5px 5px rgba(255, 255, 255, 0.37);
 }
 
+
+
 .img{
     width: 30%;
     text-align: center;
@@ -51,21 +53,30 @@ main{
     float: left;
     width: 100%;
     height: 240px;
+    border-radius: 20px;
+    
+}
+
+.img img:hover{
+   width: 500px;
+   height: 300px;
 }
 
 /*? software development text */
 .card h3{
     color: white;
     font-size: 2rem;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: 3px 1px rgba(255, 255, 255, 0.37);
 }
 
 p{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Bebas Neue', cursive;
     text-align: justify;
     color: white;
     font-weight: 300;
     text-indent: 1rem;
+    width: 80%;
 }
 
 
