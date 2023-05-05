@@ -37,6 +37,7 @@ main{
     float: left;
     background-color: rgba(255, 255, 255, 0.308);
     margin-bottom: 15px;
+    box-shadow: 5px 5px rgba(255, 255, 255, 0.37);
 }
 
 .img{
